@@ -1,3 +1,13 @@
+/*
+File: app.js
+Author: Szinyei Mikes
+Copyright: 2023, Szinyei Mikes
+Group: Szoft I-2 N
+Date: 2023-03-31
+Github: https://github.com/MikesSzinyei/
+Licenc: GNU GPL 
+*/
+
 const plotAIn = document.querySelector('#plotA')
 const plotBIn = document.querySelector('#plotB')
 const calcButton = document.querySelector('#calcButton')
